@@ -58,6 +58,7 @@ Than the cmd pops up and you can do whatever you want to.
 
 ## To do
 
+- [x] Make the programm kombatible with Windows 10
 - [] Make the programm kombatible with Windows 11
 - [] Maby more Languitches
 
