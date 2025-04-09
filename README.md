@@ -54,7 +54,7 @@ To use Backdoor start your now patched Windows.
 
    + klick Desktop keyboard
 
-Than the cmd pops up and you can do whatever you want.
+Than the cmd pops up and you can do whatever you want to.
 
 ## To do
 
