@@ -90,8 +90,6 @@ If you plan to use this tool on any system, make sure you have explicit permissi
 Unauthorized access is illegal and strictly prohibited.
 
 
-## Starhistory
-
 ## Star History
 
 <a href="https://www.star-history.com/#Tobidervogel/Windows-Backdoor-Creator&Timeline">
