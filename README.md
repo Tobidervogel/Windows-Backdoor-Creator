@@ -2,9 +2,7 @@
 
 **Windows Backdoor Creator** is a tool that creates a backdoor on your own Windows system — for example, if you forgot your password.
 
-![Downloads](https://img.shields.io/github/downloads/Tobidervogel/Windows-Backdoor-Creator/total)  
-![License](https://img.shields.io/github/license/Tobidervogel/Windows-Backdoor-Creator)  
-[![WakaTime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516.svg)](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516)
+![Downloads](https://img.shields.io/github/downloads/Tobidervogel/Windows-Backdoor-Creator/total)  ![License](https://img.shields.io/github/license/Tobidervogel/Windows-Backdoor-Creator)  [![WakaTime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516.svg)](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516)
 
 > ⚠️ **Note:** Currently works only on **Windows 10**
 
