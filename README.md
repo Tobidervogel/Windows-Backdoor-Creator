@@ -72,12 +72,34 @@ Contributions to Windows Backdoor Creator are welcome! Your input helps improve 
 
 
 
-# License
+## License
 This project is licensed under the **[MIT License](LICENSE)**.  
 For more details, see the LICENSE file.
 
-
-
 # Legal Disclaimer
+
+This software is intended for private use on your own systems only.  
+By using this tool, you agree that:
+
+- You will not use it to gain unauthorized access to systems or data.
+- You are solely responsible for any actions performed with this software.
+- The developer of this project is not liable for any misuse or damage caused.
+
+If you plan to use this tool on any system, make sure you have explicit permission from the owner.  
+Unauthorized access is illegal and strictly prohibited.
+
+
+## Starhistory
+
+## Star History
+
+<a href="https://www.star-history.com/#Tobidervogel/Windows-Backdoor-Creator&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Tobidervogel/Windows-Backdoor-Creator&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Tobidervogel/Windows-Backdoor-Creator&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Tobidervogel/Windows-Backdoor-Creator&type=Timeline" />
+ </picture>
+</a>
+
 
   
