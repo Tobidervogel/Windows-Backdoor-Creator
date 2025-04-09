@@ -1,96 +1,104 @@
-# Windows-Backdoor-Creator
-Windows Backdoor Creator is a tool that creates a backdoor on your Pc if for example fergottyour password.
+# 🪟 Windows Backdoor Creator
 
-![Downloads](https://img.shields.io/github/downloads/Tobidervogel/Windows-Backdoor-Creator/total)
-![GitHub License](https://img.shields.io/github/license/Tobidervogel/Windows-Backdoor-Creator)
-[![wakatime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516.svg)](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516)
+**Windows Backdoor Creator** is a tool that creates a backdoor on your own Windows system — for example, if you forgot your password.
 
-  * Note: Just works for Windows 10
+![Downloads](https://img.shields.io/github/downloads/Tobidervogel/Windows-Backdoor-Creator/total)  
+![License](https://img.shields.io/github/license/Tobidervogel/Windows-Backdoor-Creator)  
+[![WakaTime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516.svg)](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0/project/84249c16-78ff-4dcd-bcbb-fc64dc6b9516)
 
+> ⚠️ **Note:** Currently works only on **Windows 10**
 
-## Installation
+---
 
-To Install the Programm downloadthe newes release 👉[here](https://github.com/Tobidervogel/Windows-Backdoor-Creator/releases/tag/new)👈.
+## 📦 Installation
 
-  + unzipp it📦
-  + Done👍
+1. Download the latest release 👉 [here](https://github.com/Tobidervogel/Windows-Backdoor-Creator/releases/tag/new) 👈  
+2. Unzip the archive  
+3. Done! ✅
 
+---
 
-## Usage
+## 🧑‍💻 Usage
 
-There are many ways to use this tool.
+There are multiple ways to use this tool:
 
-### Linux (Live Boot)
+### 🔧 Linux (Live Boot)
 
-You uploade the unzipp file on your (Live) Linux system and start  __main__.py.
+1. Copy the unzipped folder to your Linux Live system  
+2. Run `__main__.py`  
+3. Choose your language and system: **Linux, Linux**  
+4. Paste the path to your **Windows partition**  
 
-Than you chose your languitch and your system witch is on Linux, Linux.
+> 🔔 Make sure the Windows partition is mounted!
 
-Paste the path of your Windows patition or hard drive.
+### 💻 Dualboot with Windows
 
- - Enjoy😀
+> ⚠️ You must use a different Windows than the one you want to patch.
 
-  * Note: Be safe your Windows patitionis Mountet
+1. Copy the unzipped folder to your second Windows system  
+2. Run `__main__.py`  
+3. Choose your language and system: **Windows, Windows**  
+4. Paste the path to the other Windows partition  
 
-### Dualboot Windows
+---
 
-  * Note: It had to be an other Windows as the Windows that you want to Patch.
+## 🕳️ Using the Backdoor
 
-You uploade the unzipp file on your Windows system and start  __main__.py.
+1. Boot into your newly patched Windows  
+2. Click this icon on the login screen:
 
-Than you chose your languitch and your system witch is on Windows, Windows.
+   ![Backdoor usage](https://raw.githubusercontent.com/Tobidervogel/Windows-Backdoor-Creator/refs/heads/main/images/Windows-10-Logon-Erleichterte-Bedienung.jpg)
 
-Paste the path of the other Windows patition or hard drive.
+3. Click on "On-Screen Keyboard"
 
-- Enjoy😀
+Now a Command Prompt (`cmd.exe`) will pop up — and you can do what you need.
 
+---
 
-## Usage Backdoor
+## ✅ To Do
 
-To use Backdoor start your now patched Windows.
-   + klick this buton
-     
-     ![Better Usage](https://raw.githubusercontent.com/Tobidervogel/Windows-Backdoor-Creator/refs/heads/main/images/Windows-10-Logon-Erleichterte-Bedienung.jpg)
+- [x] Make program compatible with Windows 10  
+- [ ] Make program compatible with Windows 11  
+- [ ] Add more languages (maybe)
 
-   + klick Desktop keyboard
+---
 
-Than the cmd pops up and you can do whatever you want to.
+## 🤝 Contributing
 
-## To do
+Contributions are always welcome! You can help by:
 
-- [x] Make the programm kombatible with Windows 10
-- [] Make the programm kombatible with Windows 11
-- [] Maby more Languitches
+- Reporting bugs  
+- Suggesting features  
+- Creating pull requests  
 
-## Contributing
-Contributions to Windows Backdoor Creator are welcome! Your input helps improve the project, whether it’s through:
-  - Reporting bugs
-  - Suggesting features
-  - Submitting pull requests
+---
 
-## Contributors
-- **Tobidervogel** (since November 02, 2024)
+## 👤 Contributors
 
+- **Tobidervogel** (since November 2, 2024)
 
+---
 
-## License
+## 📄 License
+
 This project is licensed under the **[MIT License](LICENSE)**.  
-For more details, see the LICENSE file.
+See the LICENSE file for more information.
 
-# Legal Disclaimer
+---
 
-This software is intended for private use on your own systems only.  
-By using this tool, you agree that:
+## ⚖️ Legal Disclaimer
 
-- You will not use it to gain unauthorized access to systems or data.
-- You are solely responsible for any actions performed with this software.
-- The developer of this project is not liable for any misuse or damage caused.
+This software is for private use on your own systems only. By using this tool, you agree:
 
-If you plan to use this tool on any system, make sure you have explicit permission from the owner.  
-Unauthorized access is illegal and strictly prohibited.
+- Not to use it for unauthorized access  
+- You are fully responsible for what you do with it  
+- The developer is **not** responsible for any misuse or damage  
 
+> Using this tool without permission on other people's computers is illegal and strictly forbidden.
 
-## Star History
+---
+
+## ⭐ Star History
 
 <a href="https://www.star-history.com/#Tobidervogel/Windows-Backdoor-Creator&Timeline">
  <picture>
@@ -99,6 +107,3 @@ Unauthorized access is illegal and strictly prohibited.
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Tobidervogel/Windows-Backdoor-Creator&type=Timeline" />
  </picture>
 </a>
-
-
-  
